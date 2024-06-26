@@ -1,2 +1,5 @@
 # DQLab_journeyasDataAnalyst
-Documentation learning Data Analyst by DQLab
+
+Documentation learning DQLab Data Analyst Learning Path 
+
+Hi! I'am Salsabila, Fresh Graduate 
